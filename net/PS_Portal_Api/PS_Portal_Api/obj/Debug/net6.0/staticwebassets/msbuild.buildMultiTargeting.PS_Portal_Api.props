@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PS_Portal_Api.props" />
+</Project>
