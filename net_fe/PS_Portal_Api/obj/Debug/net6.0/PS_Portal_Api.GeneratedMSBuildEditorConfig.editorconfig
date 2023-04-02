@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Codes\git\ps_p\net_fe\PS_Portal_Api
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Codes/git/ps_p/net_fe/PS_Portal_Api/Pages/Complains.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGxhaW5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Codes/git/ps_p/net_fe/PS_Portal_Api/Pages/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
