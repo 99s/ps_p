@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TxFnCAYRaIsOudt3Hqvs5QeuNrZJSdtufOHO7DoxHmg=",
+  "Source": "PS_Portal_Api",
+  "BasePath": "_content/PS_Portal_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
