@@ -436,7 +436,8 @@ namespace PS_Portal_Api.Repositories
                 _compl.Email = model.Email;
                 _compl.Name = model.Name;
                 _compl.ContactNumber = model.ContactNumber;
-
+                _compl.Type= model.Type;
+                _compl.OfficerName = model.OfficerName;
 
 
 

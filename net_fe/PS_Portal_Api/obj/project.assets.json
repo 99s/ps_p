@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Codes\\PS_Portal_Api\\PS_Portal_Api\\PS_Portal_Api.csproj",
+      "projectUniqueName": "D:\\Codes\\git\\ps_p\\net_fe\\PS_Portal_Api\\PS_Portal_Api.csproj",
       "projectName": "PS_Portal_Api",
-      "projectPath": "D:\\Codes\\PS_Portal_Api\\PS_Portal_Api\\PS_Portal_Api.csproj",
+      "projectPath": "D:\\Codes\\git\\ps_p\\net_fe\\PS_Portal_Api\\PS_Portal_Api.csproj",
       "packagesPath": "C:\\Users\\meghm\\.nuget\\packages\\",
-      "outputPath": "D:\\Codes\\PS_Portal_Api\\PS_Portal_Api\\obj\\",
+      "outputPath": "D:\\Codes\\git\\ps_p\\net_fe\\PS_Portal_Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meghm\\AppData\\Roaming\\NuGet\\NuGet.Config",

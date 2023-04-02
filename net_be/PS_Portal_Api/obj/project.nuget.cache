@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GBR5wkS8UntXgIUMz6lZGYzRIdECVimSRuAvofV3HPl1G2amWNNozUXn+jAiyJiHpEZATA9nKLdLy6lio64WyQ==",
+  "dgSpecHash": "/A7rL7rWIfc3iIDjQZ4COMzsrCnAt/llmVKRoAuS5ggZs7Fu4IXBEsMdlfCSnC8EQmAhpuRdrvJlPbFXbejYYQ==",
   "success": true,
-  "projectFilePath": "D:\\Codes\\git\\PS_Portal_Api\\PS_Portal_Api\\PS_Portal_Api.csproj",
+  "projectFilePath": "D:\\Codes\\git\\ps_p\\net_be\\PS_Portal_Api\\PS_Portal_Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meghm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\meghm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
